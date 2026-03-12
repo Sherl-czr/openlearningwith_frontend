@@ -3,28 +3,46 @@
     "name": "",
     "level": 1,
     "xp": 0,
-    "start_date": ""
+    "start_date": "",
+    "total_learning_hours": 0
   },
   "stages": {
     "01_html": {
       "name": "HTML基础",
       "status": "not_started",
-      "completed_exercises": [],
-      "xp_earned": 0
+      "concepts_learned": [],
+      "exercises_completed": [],
+      "project_completed": false,
+      "xp_earned": 0,
+      "time_spent": 0
     },
     "02_css": {
       "name": "CSS布局",
       "status": "locked",
-      "completed_exercises": [],
-      "xp_earned": 0
+      "concepts_learned": [],
+      "exercises_completed": [],
+      "project_completed": false,
+      "xp_earned": 0,
+      "time_spent": 0
     },
     "03_js": {
       "name": "JavaScript入门",
       "status": "locked",
-      "completed_exercises": [],
-      "xp_earned": 0
+      "concepts_learned": [],
+      "exercises_completed": [],
+      "project_completed": false,
+      "xp_earned": 0,
+      "time_spent": 0
     }
   },
   "achievements": [],
-  "current_stage": "01_html"
+  "current_stage": "01_html",
+  "stats": {
+    "total_exercises": 0,
+    "total_errors": 0,
+    "questions_asked": 0,
+    "learning_streak": 0
+  },
+  "error_history": [],
+  "question_history": []
 }

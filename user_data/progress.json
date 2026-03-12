@@ -1,0 +1,30 @@
+{
+  "user": {
+    "name": "",
+    "level": 1,
+    "xp": 0,
+    "start_date": ""
+  },
+  "stages": {
+    "01_html": {
+      "name": "HTML基础",
+      "status": "not_started",
+      "completed_exercises": [],
+      "xp_earned": 0
+    },
+    "02_css": {
+      "name": "CSS布局",
+      "status": "locked",
+      "completed_exercises": [],
+      "xp_earned": 0
+    },
+    "03_js": {
+      "name": "JavaScript入门",
+      "status": "locked",
+      "completed_exercises": [],
+      "xp_earned": 0
+    }
+  },
+  "achievements": [],
+  "current_stage": "01_html"
+}

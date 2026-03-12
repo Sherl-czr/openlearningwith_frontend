@@ -1,0 +1,30 @@
+{
+  "project": {
+    "name": "AI Learning Coach",
+    "version": "1.0.0",
+    "description": "让AI成为你的私人编程教练"
+  },
+  "learning": {
+    "auto_read_prompt": "prompts/coach.md",
+    "track_progress": true,
+    "save_logs": true,
+    "track_emotions": true
+  },
+  "stages": [
+    {
+      "id": "01_html",
+      "name": "HTML基础",
+      "order": 1
+    },
+    {
+      "id": "02_css",
+      "name": "CSS布局", 
+      "order": 2
+    },
+    {
+      "id": "03_js",
+      "name": "JavaScript入门",
+      "order": 3
+    }
+  ]
+}
